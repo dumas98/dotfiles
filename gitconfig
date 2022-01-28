@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = danieldumas98@gmail.com
+	name = Daniel Dumas
